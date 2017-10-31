@@ -1,8 +1,6 @@
 import tensorflow as tf
-import datetime
 import numpy as np
 
-import time
 node1 = tf.constant(3.0, dtype=tf.float32)
 node2=tf.constant(4.0)
 print(node1, node2)
@@ -51,11 +49,6 @@ with tf.Session() as sess:
     result = sess.run(b, feed_dict=dictionary)
 print result
 
-
-
-
-print(datetime.datetime.now())
-print(time.time())
 
 x = tf.placeholder("float")
 y = tf.placeholder("float")
