@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70e1e3d8-3d25-4cc7-943b-e52e1452f02d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Word2Vec.py" afterPath="$PROJECT_DIR$/Word2Vec.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MNIST Data.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MNIST Data.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MNIST Data.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -38,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Word2Vec.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Word2Vec.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Word2Vec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="222" column="18" lean-forward="false" selection-start-line="222" selection-start-column="18" selection-end-line="222" selection-end-column="18" />
+            <state relative-caret-position="-444">
+              <caret line="213" column="30" lean-forward="false" selection-start-line="213" selection-start-column="21" selection-end-line="213" selection-end-column="30" />
               <folding>
                 <element signature="e#720#758#0" expanded="true" />
               </folding>
@@ -62,6 +61,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>anarchism</find>
+      <find>embe</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,6 +74,7 @@
         <option value="$PROJECT_DIR$/ComputationalGraph.py" />
         <option value="$PROJECT_DIR$/MNIST Data.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/Matplotlib.py" />
         <option value="$PROJECT_DIR$/Word2Vec.py" />
       </list>
     </option>
@@ -136,78 +137,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="PythonProjectTest" type="cbb8eebc:String" user="PythonProjectTest" />
             </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="camilomontenegro" type="cbb8eebc:String" user="camilomontenegro" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="camilomontenegro" type="cbb8eebc:String" user="camilomontenegro" />
-              <item name="Documents" type="cbb8eebc:String" user="Documents" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="camilomontenegro" type="cbb8eebc:String" user="camilomontenegro" />
-              <item name="Documents" type="cbb8eebc:String" user="Documents" />
-              <item name="VirtualenvTF" type="cbb8eebc:String" user="VirtualenvTF" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="camilomontenegro" type="cbb8eebc:String" user="camilomontenegro" />
-              <item name="Documents" type="cbb8eebc:String" user="Documents" />
-              <item name="VirtualenvTF" type="cbb8eebc:String" user="VirtualenvTF" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="camilomontenegro" type="cbb8eebc:String" user="camilomontenegro" />
-              <item name="Documents" type="cbb8eebc:String" user="Documents" />
-              <item name="VirtualenvTF" type="cbb8eebc:String" user="VirtualenvTF" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-              <item name="python2.7" type="cbb8eebc:String" user="python2.7" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="camilomontenegro" type="cbb8eebc:String" user="camilomontenegro" />
-              <item name="Documents" type="cbb8eebc:String" user="Documents" />
-              <item name="VirtualenvTF" type="cbb8eebc:String" user="VirtualenvTF" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-              <item name="python2.7" type="cbb8eebc:String" user="python2.7" />
-              <item name="site-packages" type="cbb8eebc:String" user="site-packages" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -266,6 +195,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="Matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProjectTest" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="Word2Vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,18 +246,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.ComputationalGraph" />
       <item index="1" class="java.lang.String" itemvalue="Python.hackerrank" />
       <item index="2" class="java.lang.String" itemvalue="Python.MNIST Data" />
       <item index="3" class="java.lang.String" itemvalue="Python.Word2Vec" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Matplotlib" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.Word2Vec" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MNIST Data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ComputationalGraph" />
-        <item index="3" class="java.lang.String" itemvalue="Python.hackerrank" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Matplotlib" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MNIST Data" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ComputationalGraph" />
+        <item index="4" class="java.lang.String" itemvalue="Python.hackerrank" />
       </list>
     </recent_temporary>
   </component>
@@ -331,10 +279,10 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5053333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22133334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -514,6 +462,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tempfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="261" column="4" lean-forward="false" selection-start-line="261" selection-start-column="4" selection-end-line="261" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MNIST Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -524,17 +480,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tempfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="261" column="4" lean-forward="false" selection-start-line="261" selection-start-column="4" selection-end-line="261" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/collections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
+        <state relative-caret-position="113">
           <caret line="547" column="0" lean-forward="false" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
           <folding />
         </state>
@@ -542,11 +490,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Word2Vec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="222" column="18" lean-forward="false" selection-start-line="222" selection-start-column="18" selection-end-line="222" selection-end-column="18" />
+        <state relative-caret-position="-444">
+          <caret line="213" column="30" lean-forward="false" selection-start-line="213" selection-start-column="21" selection-end-line="213" selection-end-column="30" />
           <folding>
             <element signature="e#720#758#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
