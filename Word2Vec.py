@@ -172,7 +172,6 @@ with graph.as_default():
     nce_weights = tf.Variable(
         tf.truncated_normal([vocabulary_size, embedding_size],
                             stddev=1.0 / math.sqrt(embedding_size)))
-    tf.trunca
     nce_biases = tf.Variable(tf.zeros([vocabulary_size]))
 
   # Compute the average NCE loss for the batch.
