@@ -47,7 +47,7 @@ b = pl*2
 dictionary={pl: [ [ [1,2,3]] , [ [13,14,15] ] ] }
 with tf.Session() as sess:
     result = sess.run(b, feed_dict=dictionary)
-print result
+print (result)
 
 
 # x = tf.placeholder("float")
