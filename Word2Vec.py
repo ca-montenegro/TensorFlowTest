@@ -39,9 +39,9 @@ def maybe_download(filename, expected_bytes):
   """Download a file if not present, and make sure it's the right size."""
   print(gettempdir())
   local_filename = os.path.join('./textWord2Vec/', filename)
-  if not os.path.exists(local_filename):
-    local_filename, _ = urllib.request.urlretrieve(url + filename,
-                                                   local_filename)
+  #if not os.path.exists(local_filename):
+    #local_filename, _ = urllib.request.urlretrieve(url + filename,
+                                                   #local_filename)
   statinfo = os.stat(local_filename)
   if statinfo.st_size == expected_bytes:
     print('Found and verified', filename)
@@ -52,7 +52,7 @@ def maybe_download(filename, expected_bytes):
   return local_filename
 
 
-filename = maybe_download('text8.zip', 31344016)
+filename = maybe_download('Resumen.zip', 11514)
 
 
 # Read the data into a list of strings.
@@ -66,7 +66,7 @@ vocabulary = read_data(filename)
 print('Data size', len(vocabulary))
 
 # Step 2: Build the dictionary and replace rare words with UNK token.
-vocabulary_size = 50000
+vocabulary_size = 5000
 
 
 def build_dataset(words, n_words):
@@ -122,6 +122,8 @@ def generate_batch(batch_size, num_skips, skip_window):
       labels[i * num_skips + j, 0] = buffer[context_word]
     if data_index == len(data):
       buffer[:] = data[:span]
+      #for word in data[:span]:
+        #buffer.append(word)
       data_index = span
     else:
       buffer.append(data[data_index])
